@@ -1,0 +1,54 @@
+Aaj Se Teri; Arijit Singh; Kausar Munir; Padman; Amit Trivedi; Love; 345
+Jab Se Tere Naina;Shaan;Sameer;Saawariya;Monti Sharma;Love;237
+Main Tere Kabil Hoon; Jubin Nautiyal; Nasir Faraaz; Kaabil; Rajesh Roshan; Love; 501
+Enna Sona; Arijit Singh; Gulzar; OK Jaanu; AR Rahman; Love; 445
+Humsafar; Akhil Sachdeva; Akhil Sachdeva; Badrinath Ki Dulhania; Akhil Sachdeva; Love; 574
+Lambiyaan Si Judaiyan;Arijit Singh; Amitabh Bhattacharya; Raabta; Pritam; Sad; 457
+Ban Ja Rani; Guru Randhawa; Guru Randhawa; Tumhari Sulu; Guru Randhawa; Love; 395
+Nazm Nazm; Arko; Arko; Bareilly Ki Barfi; Arko; Sad; 474
+Aaj Din Chadheya; Rahat Fateh Ali Khan; Irshad Kamil; Love Aaj Kal; Pritam; Sad; 625
+Chahu Main Ya Na;Arijit Singh;Irshad Kamil;Aashiqui 2;Jeet Gannguli;Love;150
+Yaad Na Aaye;Akull;Dhruv Yogi;VYRL Originals;Angel Rai;Sad;226
+Taaron Ke Shehar;Neha Kakkar;Jaani;T-Series;Sunny Kaushal;Love;247
+Nazar Na Lag Jaaye;Ash King;Vayu;Stree;Sachin Jigar;Love;150
+Chori Kiya Re Jiya;Shreya Ghoshal;Jalees Sherwani;Dabangg;Pitam;Love;224
+Hamein Aur Jeene Ki;Kishore Kumar;Gulshan Bawra; Agar Tum Na Hote;Lata Mangeshkar;Sad;158
+I Love You;Ash King;Neelesh Misra;Bodyguard;Pritam;Love;234
+Iktara;Amitabh Bhattacharya;Javed Akhtar;Wake Up Sid;Amit Trivedi;Soul music;356
+Jag Ghoomeya;Rahat Fateh Ali Khan;Irshad Kamil;Sultan;Vishal Shekhar;Love;241
+Jeene Laga Hoon;Atif Aslam;Priya Panchal;Ramaiya Vastavaiya;Sachin Jigar;Love;245
+Main Agar Kahoon;Shreya Ghoshal;Javed Akhtar;Om Shanti Om;Vishal Shekhar;Sad;231
+Pehli Nazar Mein;Atif Aslam;Sameer;Race;Pritam;Love;227
+My Dil Goes Mmmm;Shaan;Jaideep Sahni;Salaam Namaste;Shekhar Ravjiani;Love;257
+Pyar Kiya To Darna Kya;Lata Mangeshkar;Shakeel Badayuni;Mughal E Azam;Naushad;Love;278
+Lag Ja Gale;Lata Mangeshkar;Raja Mehndi Ali Khan;Woh Kaun Thi;Madan Mohan Kohli;Sad;246
+Pehla Pyar;Armaan Malik;Irshad Kamil;Kabir Singh;Vishal Mishra;Love;245
+Mera Dil Bhi Kitna Pagal Hai;Kumar Sanu;Sameer;Saajan;Nadeem Shravan;Love;345
+Mohobbat Ki Jhooti Kahani;Lata Mangeshkar;Shakeel Badayuni;Mughal E Azam;Naushad;Sad;298
+Bulleya;Amit Mishra;Amitabh Bhattacharya;Ae Dil Hai Mushkil;Pritam;Sad;359
+Tum Se Hi;Mohit Chauhan;Irshad Kamil;Jab We Met;Pritam;Love;322
+Jaadu Teri Nazar;Udit Narayan;Anand Bakshi;Darr;Shiv Kumar Sharma;Love;227
+Pee Loon;Mohit Chauhan;Irshad Kamil;Once Upon A Time In Mumbai;Pritam;Love;267
+Tera Chehra;Arijit Singh;Shabbir Ahmed;Sanam Teri Kasam;Himesh Reshammiya;Sad;235
+Sanam Teri Kasam;Palak Muchhal;Sameer Anjaan;Sanam Teri Kasam;Himesh Reshammiya;Sad;276
+Haal E Dil;Sreerama Chandra;Sameer Anjaan;Sanam Teri Kasam;Himesh Reshammiya;Sad;289
+Bewajah;Himesh Reshammiya;Sameer Anjaan;Sanam Teri Kasam;Himesh Reshammiya;Sad;255
+Tera Ban Jaunga;Akhil Sachdeva;Kumaar;Kabir Singh;Akhil Sachdeva;Love;234
+Nashe Si Chadh Gayi;Arijit Singh;Jaideep Sahni;Befikre;Vishal Shekhar;Love;246
+Humnava;Papon;Sayeed Quadri;Hamari Adhuri Kahani;Sachin Jigar;Love;221
+Agar Tum Saath Ho;Arijit Singh;Irshad Kamil;Tamasha;A.R.Rahman;Sad;191
+Hamari Adhuri Kahani;Arijit Singh;Virag Mishra;Hamari Adhuri Kahani;Jeet Gannguli;Sad;235
+Badtameez Dil;Benny Dayal;Amitabh Bhattacharya;Yeh Jawaani Hai Deewani;Pritam;Love;246
+I Am A Disco Dancer;Bappi Lahiri;Anjaan;Disco Dancer;Bappi Lahiri;Love;265
+Prem Ratan Dhan Payo;Palak Muchhal;Irshad Kamil;Prem Ratan Dhan Payo;Himesh Reshammiya;Love;342
+Pehla Nasha;Udit Narayan;Sameer Anjaan;Jo Jeeta Wahi Sikandar;Jatin Pandit;Love;311
+Afgan Jalebi;Syed Asrar Shah;Amitabh Bhattacharya;Phantom;Pritam;Love;230
+Aaj Ki Party;Mika Singh;Shabbir Ahmed;Bajrangi Bhaijaan;Pritam;Party;231
+Sau Tarah Ke;Amit Mishra;Kumaar;Dishoom;Pritam;Love;254
+Main Tera Boyfriend;Arijit Singh;Kumaar;Raabta;Sourav Roy;Love;220
+Kesariya;Arijit Singh;Amitabh Bhattacharya;Brahmastra;Pritam;Love;245
+Naina;Arijit Singh;Amitabh Bhattacharya;Dangal;Pritam;Sad;330
+Dil Diyan Gallan;Atif Aslam;Irshad Kamil;Tiger Zinda Hai;Vishal;Love;220
+Woh Lamhe Woh Baatein;Atif Aslam;Sayeed Qadri;Zeher;Pritam;Love;235
+O Saathi;Atif Aslam;Arko;Baaghi 2;Arko;Love;254
+Shayad;Arijit Singh;Irshad Kamil;Love Aaj Kal;Pritam;Love;223
